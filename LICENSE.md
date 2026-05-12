@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with Audacity for macOS custom Filter: text-animation & subtitle-generator, the #1 filter. Includes text-animation and subtitle-generator for a smoother
 
 
 
